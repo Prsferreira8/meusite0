@@ -8,7 +8,7 @@ body{
 }
 header{
     text-align: center; 
-    alignment: center;
+    align-content: center;
     padding-top: 5em;
     color: #fff;
       font-family: Arial, "Open Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -21,4 +21,9 @@ h1{
    color: #fff;
    margin-bottom: 0;
    text-decoration: none;
+}
+
+blue{
+  font-size: 48px;
+  color: blue 
 }
